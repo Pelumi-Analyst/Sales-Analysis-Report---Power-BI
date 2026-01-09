@@ -182,10 +182,11 @@ These filters allow users to dynamically interact with the report.
 - Data Analysis eXpression(DAX)
 - Business Analytics & Storytelling
 ---
-_**To interact with the report, click [here](https://app.powerbi.com/view?r=eyJrIjoiMWFlZjM2NmYtNjJlYi00NjdlLWE1ZTMtYmJjMjQyYzFlODk0IiwidCI6IjVkNzU0ZDZhLTAxNWUtNGQ3ZS1hYjc1LTAwNmJlZGViZGVhMyJ9)**_
+**To interact with the report, click [here](https://app.powerbi.com/view?r=eyJrIjoiMWFlZjM2NmYtNjJlYi00NjdlLWE1ZTMtYmJjMjQyYzFlODk0IiwidCI6IjVkNzU0ZDZhLTAxNWUtNGQ3ZS1hYjc1LTAwNmJlZGViZGVhMyJ9)**
 ---
 **Thank you for reading 🙏. If you have any question, you can reach out to me through my social media platforms below:**
 [LinkedIn](https://www.linkedin.com/in/oluwapelumiarowosaye)
+
 [Twitter](https://x.com/Pelumi_Analyst)
 
 **Another version of the report👇**
